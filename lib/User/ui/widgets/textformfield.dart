@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:stayathome_app/ui/widgets/responsive_ui.dart';
+import 'package:stayathome_app/screen_sizes/responsive_ui.dart';
+
 
 class CustomTextField extends StatelessWidget {
   final String hint;

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:stayathome_app/User/ui/screens/signup.dart';
 import 'package:stayathome_app/constants/constants.dart';
 
-import 'package:stayathome_app/ui/signup.dart';
 
 
 void main() => runApp(MyApp());

@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
+import 'package:stayathome_app/User/ui/widgets/textformfield.dart';
 import 'package:stayathome_app/constants/constants.dart';
-import 'package:stayathome_app/ui/widgets/customappbar.dart';
-import 'package:stayathome_app/ui/widgets/responsive_ui.dart';
-import 'package:stayathome_app/ui/widgets/textformfield.dart';
+import 'package:stayathome_app/screen_sizes/responsive_ui.dart';
+
+import 'package:stayathome_app/widgets/customappbar.dart';
 
 
 
